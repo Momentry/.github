@@ -3,7 +3,7 @@
     Momentry
   </h1>
 </div>
-<img src="/images/home.png"/>
+<img src="images/home.png"/>
 <br/>
 
 ## 📜 목차
@@ -110,10 +110,10 @@
 
 ### 시스템 아키텍처
 
-![시스템 아키텍처](/images/system_architecture.png)
+![시스템 아키텍처](images/system_architecture.png)
 
 ### ERD
-![ERD](/images/erd.png)
+![ERD](images/erd.png)
 
 ## 👥 팀원 소개
 
