@@ -1,10 +1,17 @@
 <div align="center">
-  <h1 style="display: flex; align-items: center; justify-content: center; width: 100%;">
-    Momentry
-  </h1>
+  <h1>Momentry</h1>
+  <h3>순간들을 모아, 당신만의 이야기를 만들어보세요</h3>
 </div>
-<img src="images/home.png"/>
-<br/>
+
+<p align="center">
+  <img src="images/home.png" alt="Momentry 홈 화면"/>
+</p>
+
+<h3 align="center">
+  <a href="https://momentry.p-e.kr/welcome-to-momentry-beta">🔗 베타버전 바로가기</a>
+</h3>
+
+
 
 ## 📜 목차
 
@@ -13,7 +20,7 @@
 3. [기술 스택](#%EF%B8%8F-기술-스택)
 4. [아키텍처 구성](#-아키텍처-구성)
 5. [팀원 소개](#-팀원-소개)
-<br/>
+
 
 ## 📝 프로젝트 개요
 
@@ -120,3 +127,6 @@
 | 김준혁   | 박상찬 | 홍정훈 | 박주희 | 구자원 | 오서로 | 이대연 |
 | -------- | ------ | ------ | ------ | ------ | ------ | -------- |
 | BE, 팀장 | BE     | BE     | BE     | BE     | FE     | FE |
+
+## 🔗 링크
+[Momentry 베타버전](https://momentry.p-e.kr/welcome-to-momentry-beta)
